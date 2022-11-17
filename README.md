@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-We were given a data set from XYZ Bank and ask to create a model  for future use using spark that predicted whether a client would subscribe for a term deposit. In addition we were also asked to conduct a Exploratory Data Analysis along with our prescriptive recommendations. 
+We were given a data set from XYZ Bank and ask to create a model  for future use using spark that predicted whether a client would subscribe for a term deposit. In addition, we were also asked to conduct a Exploratory Data Analysis along with our prescriptive recommendations. 
 
 After transforming the data we built and evaluated multiple models and determined that a Gradient Boosting Tree was the best model.
 
